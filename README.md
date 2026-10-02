@@ -12,8 +12,10 @@ Installers are not hosted in this repository. GitHub Releases and tags here are 
 
 ## Free and paid
 
-- **Guest:** free, no sign-in needed, with 10 included voiceovers to try.
-- **Supporter:** unlocks the whole app, through Patreon.
+- **Free:** try Dreamscape Studio in Guest mode, with no sign-in needed.
+- **Paid:** Supporter access through Patreon unlocks the whole app.
+
+For details, visit the [website](https://dreamscapestudio.app/) or join the [Discord](https://discord.gg/KycZdBCHSa).
 
 ## Stash
 
